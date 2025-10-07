@@ -22,7 +22,7 @@ IPAINT is an IoT-integrated paint vending system designed to modernize the proce
 **Mark Anthony**  
 
 Embedded software engineer and project lead behind the iPaint-Paint Vending Machine.  
-Responsible for software and hardware architecture and database integration.
+Responsible for the creation of iPAINT-paintvendingmachinesoftware, embedded system logic, hardware architecture, and database integration.
 
 [LinkedIn](www.linkedin.com/in/mark-anthony-dela-cruz-675b62386) • [GitHub](https://github.com/MarkDevs20)
 
