@@ -75,12 +75,12 @@ The system allows users to order customized paint mixtures with precise color ac
 
 ## Colors Created
 
-| Color               |                             Preview                             |  Hex Code |
-| :------------------ | :-------------------------------------------------------------: | :-------: |
-| **Cornflower**      | ![#6495ED](https://via.placeholder.com/20/6495ED/000000?text=+) | `#6495ED` |
-| **Maize**           | ![#FBEC5D](https://via.placeholder.com/20/FBEC5D/000000?text=+) | `#FBEC5D` |
-| **Turquoise**       | ![#40E0D0](https://via.placeholder.com/20/40E0D0/000000?text=+) | `#40E0D0` |
-| **Pale Violet Red** | ![#DB7093](https://via.placeholder.com/20/DB7093/000000?text=+) | `#DB7093` |
+| Color               |                                                                                        Hex Code |
+| :------------------ |                                                                                      :----------| 
+![Cornflower](https://img.shields.io/badge/Cornflower-%236495ED.svg?style=for-the-badge) |#6495ED|
+![Maize](https://img.shields.io/badge/Maize-%23FBEC5D.svg?style=for-the-badge) |#FBEC5D|
+![Turquoise](https://img.shields.io/badge/Turquoise-%2340E0D0.svg?style=for-the-badge) |#40E0D0|
+![Pale%20Violet%20Red](https://img.shields.io/badge/Pale%20Violet%20Red-%23DB7093.svg?style=for-the-badge) |#DB7093|
 
 ## Installation
 
